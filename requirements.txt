@@ -1,0 +1,7 @@
+requests
+robotframework
+robotframework-requests
+robotframework-jsonlibrary
+robotframework-seleniumlibrary
+# robotframework-lint
+# robotframework-ride

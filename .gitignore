@@ -1,0 +1,11 @@
+*.html
+*.xml
+*.png
+*.pyc
+*.log
+*.iml
+.idea/
+*.sublime*
+.vscode/
+setenv/
+scratch/
